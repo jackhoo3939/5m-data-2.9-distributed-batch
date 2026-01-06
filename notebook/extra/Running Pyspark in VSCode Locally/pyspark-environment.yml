@@ -1,0 +1,18 @@
+name: pyspark
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - findspark=2.0.1
+  - ipykernel=7.1.0
+  - matplotlib=3.10.7
+  - nbformat=5.10.4
+  - openjdk=17.0.17
+  - pandas=2.3.3
+  - pip=25.3
+  - plotly=6.5.0
+  - pyspark=3.5.5
+  - python=3.11.14
+  - requests=2.32.5
+  - wget=1.25.0
+prefix: /Users/ds0/miniconda3/envs/pyspark
