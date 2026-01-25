@@ -20,8 +20,17 @@ Conceptual knowledge, refer to slides.
 
 ## Part 2 - Hands-on with Spark
 
-We will be using [this](https://colab.research.google.com/drive/1FIiiHUn9Oa8GL6CsibTkjbPuUeeSx3DX?usp=sharing) Colab notebook throughout the lesson.
+We will be using [this notebook](https://colab.research.google.com/drive/1vmXtzmqDxjs_d-u8cZWtCZnZpNtMcQJx) file and connect to Colab over web browser.
 
 > Open the Colab link, then go to File -> Save a copy in Drive. This will create a copy of the notebook in your Google Drive. It will then open the notebook in a new tab.
 >
 > Follow on with the lesson in the notebook.
+
+
+Alternatively, we can use the notebook [5m_data_2_9_Hands_on_with_Spark.ipynb](notebook/5m_data_2_9_Hands_on_with_Spark.ipynb) in the `notebook` folder. However, we will be connecting this notebook to the Colab environment using the Colab extension. 
+
+- Open the notebook `m_data_2_9_Hands_on_with_Spark.ipynb` under the notebook folder.
+- Click n the top right corner `Select kernel` and then select `Colab` instead. It will direct you to a browser to login to Google.
+- After login to Google, come back to the notebook and select `Python 3`
+
+> Please note that `psdf.plot()` will not show plot in Colab in VSCode.
