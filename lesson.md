@@ -20,7 +20,7 @@ Conceptual knowledge, refer to slides.
 
 ## Part 2 - Hands-on with Spark
 
-We will be using [this](https://colab.research.google.com/drive/1FIiiHUn9Oa8GL6CsibTkjbPuUeeSx3DX?usp=sharing) file and connect to Colab over web browser.
+We will be using [this notebook](https://colab.research.google.com/drive/1vmXtzmqDxjs_d-u8cZWtCZnZpNtMcQJx) file and connect to Colab over web browser.
 
 > Open the Colab link, then go to File -> Save a copy in Drive. This will create a copy of the notebook in your Google Drive. It will then open the notebook in a new tab.
 >
