@@ -27,7 +27,7 @@ We will be using [this notebook](https://colab.research.google.com/drive/1vmXtzm
 > Follow on with the lesson in the notebook.
 
 
-Alternatively, we can use the notebook [5m_data_2_9_Hands_on_with_Spark.ipynb](notebook/5m_data_2_9_Hands_on_with_Spark.ipynb) in the `notebook` folder. However, we will be connecting this notebook to the Colab environment using the Colab extension. 
+Alternatively, we can use the notebook [5m_data_2_9_Hands_on_with_Spark_(4).ipynb](notebook/5m_data_2_9_Hands_on_with_Spark_(4).ipynb) in the `notebook` folder. However, we will be connecting this notebook to the Colab environment using the Colab extension. 
 
 - Open the notebook `m_data_2_9_Hands_on_with_Spark.ipynb` under the notebook folder.
 - Click n the top right corner `Select kernel` and then select `Colab` instead. It will direct you to a browser to login to Google.
