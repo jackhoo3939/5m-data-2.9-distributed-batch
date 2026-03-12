@@ -20,7 +20,10 @@ def add_sqrt_column(df, col):
 
 Answer:
 
-```python
+```
+
+def add_sqrt_column(df, col):
+    return df.withColumn("new_col", functions.sqrt(functions.col(col)))
 
 ```
 
@@ -34,7 +37,9 @@ json_file = "path/to/data.json"
 
 Answer:
 
-```python
+```
+
+df_json = spark.read.json(json_file)
 
 ```
 
@@ -51,7 +56,9 @@ filtered_df = df.filter(...)
 
 Answer:
 
-```python
+```
+
+filtered_df = df.filter((col("column1") > 10) & (col("column2").contains("foo")))  
 
 ```
 
